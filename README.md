@@ -52,8 +52,7 @@
 | Project | Description | Tech |
 |--------|-------------|------|
 | [**MediConnect**](https://github.com/AnannaB/MediConnect) | A seamless online consultation platform for patients and doctors. | MERN Stack |
-| [**GreenSteps**](https://github.com/yourusername/greensteps) | Sustainable habit tracker with rewards, gamification & social sharing. | React, MongoDB |
-| [**SkillMatrix**](https://github.com/yourusername/skill-matrix) | A platform that recommends skill paths based on your profile. | React, Node.js |
+| [**Ai-image-caption-generator**](https://github.com/AnannaB/ai-image-caption-generator) | Generate smart captions for images using deep learning. Upload an image and get an automatic description powered by a pre-trained AI model. | React · Flask · Python · CNN+LSTM · Axios · Bootstrap |
 
 ---
 
